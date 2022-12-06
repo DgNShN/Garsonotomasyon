@@ -1,0 +1,14 @@
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\bin\Debug\RestaurantOtomasyonu.exe.config
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\bin\Debug\RestaurantOtomasyonu.exe
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\bin\Debug\RestaurantOtomasyonu.pdb
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.csproj.AssemblyReference.cache
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.Form1.resources
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.Properties.Resources.resources
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.csproj.GenerateResource.cache
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.csproj.CoreCompileInputs.cache
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.exe
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.pdb
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.Masalar.resources
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.Masa1.resources
+D:\RestaurantOtomasyonu\RestaurantOtomasyonu\obj\Debug\RestaurantOtomasyonu.Masa2.resources
